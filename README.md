@@ -74,4 +74,11 @@ Run the Deepstream-app using following command:
 
 ### Live Inference(Camera) on Jetson: 
 
+### Using Deepstream:
+
+
+
+https://user-images.githubusercontent.com/91280385/191314739-a6f7e113-42d6-4bdd-bf4d-ec546a6ea5ff.mp4
+
+
 
