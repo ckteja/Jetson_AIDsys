@@ -74,7 +74,7 @@ Run the Deepstream-app using following command:
 ### Video Inference:
 
 
-### Live Inference(Camera) on Jetson: 
+### Video Inference on Jetson: 
 
 ### Using Deepstream:
 
@@ -82,7 +82,7 @@ Run the Deepstream-app using following command:
 
 https://user-images.githubusercontent.com/91280385/191314739-a6f7e113-42d6-4bdd-bf4d-ec546a6ea5ff.mp4
 
-### Using Detect.py
+### Using Detect.py (Live - cam)
 
 
 
